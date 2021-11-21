@@ -1,0 +1,33 @@
+dir ou ls- mostrar o que tem na pasta
+cd - abrir pasta
+cd .. - voltar pasta
+mkdir - criar pasta
+del - deletar arquivo
+rmdir - apagar pasta
+cls - limpar tela
+'-a' - mostra arquivos ocultos
+mv - mover
+
+git remote add [nome] [link] - associa pasta com serv github
+git status - status 
+git add - adiciona arquivos novos ou alteraçoes
+git commit -m(anotação) 
+git push - envia para github
+git clone [URL] clona um codigo pronto
+git remote -v - mostra repositorio serv
+SHA (Secure Hash Algorithm: é um conjunto de função hash criptografadas projetadas pela NSA - ecriptação de caracteres identificador de 40 digitos
+
+git init criar repositorio 
+git add
+git commit
+
+
+BLOBS: metadados do hash possuem sha1
+TREES: armazena e aponta os bobs, também possoi metadados
+COMMIT> aponta pra arvore, aponta pra parente, aponta para autor e msg, data e hr tambem possuem sha1
+
+Chave SSH: Conexão segura entre duas maquinas (duas chaves)
+
+
+
+
